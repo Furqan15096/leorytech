@@ -1,0 +1,25 @@
+.return_main_div>.heading_div>.heading{
+    color: #000;
+    font-family: Roboto Condensed,sans-serif;
+    font-size: 1.2375rem;
+    font-weight: 500;
+    line-height: 1.2;
+    margin: 0 0 15px;
+}
+.return_main_div{
+    margin-left: 12%;
+    margin-top: 150px;
+    color: rgb(116, 113, 113);
+    
+}
+.return_main_div>.heading_div>.text_div{
+    font-size: .75rem;
+    color: rgba(0,0,0,.87)
+}
+.link_div{
+    color: black !important;
+}
+.link_div:hover{
+    text-decoration: none;
+    color: rgb(80, 75, 75) !important;
+}
